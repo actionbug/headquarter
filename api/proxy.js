@@ -1,5 +1,5 @@
 export default async function handler(req, res) {
-  // Ganti dengan URL deployment Web App GAS Anda yang berakhiran /exec
+  // Gti dengan URL deployment Web App GAS Anda yang berakhiran /exec
   const targetBaseUrl = "https://script.google.com/macros/s/AKfycbxe7H7qHWMLJm4eKbhVTvIy2BEBhBXbTVvuux5CU8DdJ7Rs5yeNiLi9TQgsYKUic0y2-g/exec";
 
   try {
